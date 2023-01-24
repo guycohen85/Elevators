@@ -1,5 +1,8 @@
 # Elevators
 
+## The project can be view here:
+https://guycohen85.github.io/Elevators/
+
 ## Plan an elevator system according to the following requirements:
 
 - The building has 10 floors (including ground floor) and 5 elevators.
