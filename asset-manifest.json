@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Elevators/static/css/main.4eaf50d5.css",
+    "main.js": "/Elevators/static/js/main.103f792d.js",
+    "static/media/ding.mp3": "/Elevators/static/media/ding.4ec674285f8a8538e3eb.mp3",
+    "index.html": "/Elevators/index.html",
+    "main.4eaf50d5.css.map": "/Elevators/static/css/main.4eaf50d5.css.map",
+    "main.103f792d.js.map": "/Elevators/static/js/main.103f792d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4eaf50d5.css",
+    "static/js/main.103f792d.js"
+  ]
+}
